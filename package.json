@@ -1,6 +1,6 @@
 {
   "name": "react-native-fetch-redirect-manual",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Using redirect manual under react-native",
   "main": "index.js",
   "scripts": {
