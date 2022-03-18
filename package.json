@@ -1,7 +1,7 @@
 {
-  "name": "react-native-manual-redirect",
-  "version": "0.0.12",
-  "description": "## Getting started",
+  "name": "react-native-fetch-redirect-manual",
+  "version": "0.0.14",
+  "description": "Using redirect manual under react-native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/abgaryanharutyun/react-native-fetch-redirect-manual/issues"
   },
-  "homepage": "https://github.com/abgaryanharutyun/react-native-fetch-redirect-manual#readme"
+  "homepage": "https://github.com/abgaryanharutyun/react-native-fetch-redirect-manual#readme",
+  "dependencies": {
+    "react-native-fetch-redirect-manual": "^0.0.13"
+  }
 }

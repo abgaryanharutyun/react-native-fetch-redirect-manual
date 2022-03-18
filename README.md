@@ -1,13 +1,13 @@
 
-# react-native-manual-redirect
+# react-native-fetch-redirect-manual 
 
 ## Getting started
 
-`$ npm install react-native-manual-redirect --save`
+`$ npm install react-native-fetch-redirect-manual --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-manual-redirect`
+`$ react-native link react-native-fetch-redirect-manual `
 
 ### Manual installation
 
